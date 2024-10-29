@@ -2,7 +2,7 @@
 
 Welcome to **Pathfinder Pro**! This application was created to explore and visualize the workings of popular pathfinding algorithms, bringing these abstract concepts to life. I hope you enjoy experimenting with Pathfinder Pro as much as I enjoyed building it!
 
-**Try it out here (best experienced on Google Chrome):** [ DEMO : Pathfinder Pro](https://pathfinder-pro-visualizing-algorithms-in.onrender.com/)
+**Try it out here (best experienced on Google Chrome):** [ DEMO : Pathfinder Pro](https://pathfinder-pro-visualizing-algorithms-in-0r41.onrender.com)
 
 ---
 
